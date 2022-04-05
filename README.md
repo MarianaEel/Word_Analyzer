@@ -1,5 +1,4 @@
 # word-analyzer
-word-analyzer-ci-MarianaEel created by GitHub Classroom
 
 A word analyzer program that can read txt files and pdf files, plot the barplot of words that appears the most.
 
